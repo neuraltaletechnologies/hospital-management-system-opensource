@@ -77,6 +77,7 @@ Have a quick headstart of the Danphe EMR with some of the links listed below be 
 1. **[Installing Danphe App in Desktop Mode](https://www.youtube.com/watch?v=lKORZmKG0sA)**  
 2. **[Configuring Danphe inside IIS](https://www.youtube.com/watch?v=HmAAbFiPOKw)**
 3. **[License  Error](https://www.youtube.com/watch?v=FzjGJ5xm9mc)**
+4. **[Changing hospital logo](https://www.youtube.com/watch?v=vK7yF90xuf4)**
 
 ---
 
